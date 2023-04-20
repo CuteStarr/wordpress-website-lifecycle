@@ -39,9 +39,6 @@ They are already sponsoring me.
 Our WordPress installation is stored in a git repository
 and managed with Composer.
 
-This is the starter template.
-[szepeviktor/composer-managed-wordpress](https://github.com/szepeviktor/composer-managed-wordpress)
-
 Custom plugins and themes live in separate git repositories.
 
 **Purchased themes** can be customized using a child theme.
